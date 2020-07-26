@@ -1,0 +1,7 @@
+com/solutions/domain/Pet.class
+com/solutions/domain/TipoDocumento.class
+com/solutions/domain/TipoAnimal.class
+com/solutions/domain/PassagemAerea.class
+com/solutions/domain/Pessoa.class
+META-INF/panache-archive.marker
+com/solutions/domain/Documento.class
